@@ -1,2 +1,3 @@
-# freeutb
-免费下载油管youtube视频，视频解析、视频免费下载
+油管免费下载网址：freeu2b.com 
+
+备用导航网址：freejx.cn
